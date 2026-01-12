@@ -24,4 +24,11 @@ Easy-to-use interface for uploading, downloading, and managing files.
 Supports multiple users with separate access permissions.
 
 Ideal For:
+
 Anyone looking for a private, secure, and easy-to-manage cloud storage solution within a home or small office network.
+
+This project uses a few tools and resources to achieve a private cloud storage setup. For proper installation and configuration, the following references were used:
+
+Docker Installation on Ubuntu – Official Docker Documentation: https://docs.docker.com/engine/install/ubuntu
+
+Thank you. If you face any problems or need assistance, don’t hesitate to get in touch!
