@@ -1,0 +1,15 @@
+﻿In these project only based on NextCloud
+
+
+* Install docker’s in the system
+* Will we do compose.yml files for the docker’s
+* Can create folder 
+
+
+On the system we can create a folder but I can use this project only using the terminal: Before using the terminal any command kindly check it properly otherwise you have an issue for the data lost.
+
+
+* Can be write compose.yml file on the notepad
+* Save it
+* Detached compose.yml file
+* Access NextCloud project
